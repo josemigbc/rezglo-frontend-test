@@ -8,7 +8,7 @@ export default function SidebarSection({name, chats}: {name: string, chats: Chat
 
     return (
         <details>
-            <summary>
+            <summary className="flex justify-between items-center">
                 <span>{name}</span>
                 <span>+</span>
             </summary>

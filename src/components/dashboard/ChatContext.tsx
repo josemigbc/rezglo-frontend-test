@@ -1,8 +1,8 @@
 import { createContext, Dispatch, SetStateAction } from "react";
 
 type ChatContextValue = {
-    chat?: string,
     setChat?: Dispatch<SetStateAction<number>>,
+    addMessage?: (text:string) => void,
 }
 
 const ChatContext = createContext<ChatContextValue>({})

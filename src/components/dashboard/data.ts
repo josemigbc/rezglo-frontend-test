@@ -24,7 +24,7 @@ export const data: {channels: ChatData[], directs: ChatData[]} = {
                 {
                     user: {
                         username: "Jhon Wood",
-                        photo: "/assets/react.svg"
+                        photo: "/src/assets/react.svg"
                     },
                     text: "Hello everyone",
                     timestamp: 1700000000000,
@@ -32,7 +32,7 @@ export const data: {channels: ChatData[], directs: ChatData[]} = {
                 {
                     user: {
                         username: "Jhon Wood",
-                        photo: "/assets/react.svg"
+                        photo: "/src/assets/react.svg"
                     },
                     text: "Hello everyone",
                     timestamp: 1700000000098,
@@ -40,7 +40,7 @@ export const data: {channels: ChatData[], directs: ChatData[]} = {
                 {
                     user: {
                         username: "Jhon Wood",
-                        photo: "/assets/react.svg"
+                        photo: "/src/assets/react.svg"
                     },
                     text: "Hello everyone",
                     timestamp: 1700000000123,
@@ -54,7 +54,7 @@ export const data: {channels: ChatData[], directs: ChatData[]} = {
                 {
                     user: {
                         username: "Jhon Wood",
-                        photo: "/assets/react.svg"
+                        photo: "/src/assets/react.svg"
                     },
                     text: "Hello everyone",
                     timestamp: 1700000000000,
@@ -62,7 +62,7 @@ export const data: {channels: ChatData[], directs: ChatData[]} = {
                 {
                     user: {
                         username: "Jhon Wood",
-                        photo: "/assets/react.svg"
+                        photo: "/src/assets/react.svg"
                     },
                     text: "Hello everyone",
                     timestamp: 1700000000098,
@@ -70,7 +70,7 @@ export const data: {channels: ChatData[], directs: ChatData[]} = {
                 {
                     user: {
                         username: "Jhon Wood",
-                        photo: "/assets/react.svg"
+                        photo: "/src/assets/react.svg"
                     },
                     text: "Hello everyone",
                     timestamp: 1700000000123,
@@ -84,7 +84,7 @@ export const data: {channels: ChatData[], directs: ChatData[]} = {
                 {
                     user: {
                         username: "Jhon Wood",
-                        photo: "/assets/react.svg"
+                        photo: "/src/assets/react.svg"
                     },
                     text: "Hello everyone",
                     timestamp: 1700000000000,
@@ -92,7 +92,7 @@ export const data: {channels: ChatData[], directs: ChatData[]} = {
                 {
                     user: {
                         username: "Jhon Wood",
-                        photo: "/assets/react.svg"
+                        photo: "/src/assets/react.svg"
                     },
                     text: "Hello everyone",
                     timestamp: 1700000000098,
@@ -100,7 +100,7 @@ export const data: {channels: ChatData[], directs: ChatData[]} = {
                 {
                     user: {
                         username: "Jhon Wood",
-                        photo: "/assets/react.svg"
+                        photo: "/src/assets/react.svg"
                     },
                     text: "Hello everyone",
                     timestamp: 1700000000123,
@@ -113,21 +113,90 @@ export const data: {channels: ChatData[], directs: ChatData[]} = {
             id: 4,
             name: "Matt Weber",
             messages: [
-
+                {
+                    user: {
+                        username: "Jhon Wood",
+                        photo: "/src/assets/react.svg"
+                    },
+                    text: "Hello everyone",
+                    timestamp: 1700000000000,
+                },
+                {
+                    user: {
+                        username: "Jhon Wood",
+                        photo: "/src/assets/react.svg"
+                    },
+                    text: "Hello everyone",
+                    timestamp: 1700000000098,
+                },
+                {
+                    user: {
+                        username: "Jhon Wood",
+                        photo: "/src/assets/react.svg"
+                    },
+                    text: "Hello everyone",
+                    timestamp: 1700000000123,
+                }
             ]
         },
         {
             id: 5,
             name: "Andrew Ferguson",
             messages: [
-
+                {
+                    user: {
+                        username: "Andrew Ferguson",
+                        photo: "/src/assets/react.svg"
+                    },
+                    text: "Hello everyone",
+                    timestamp: 1700000000000,
+                },
+                {
+                    user: {
+                        username: "Andrew Ferguson",
+                        photo: "/src/assets/react.svg"
+                    },
+                    text: "Today is a work day",
+                    timestamp: 1700000000098,
+                },
+                {
+                    user: {
+                        username: "You",
+                        photo: "/src/assets/react.svg"
+                    },
+                    text: "All is ok.",
+                    timestamp: 1700000000123,
+                }
             ]
         },
         {
             id: 6,
             name: "Elizabeth Godwin",
             messages: [
-
+                {
+                    user: {
+                        username: "Jhon Wood",
+                        photo: "/src/assets/react.svg"
+                    },
+                    text: "Hello everyone",
+                    timestamp: 1700000000000,
+                },
+                {
+                    user: {
+                        username: "Jhon Wood",
+                        photo: "/src/assets/react.svg"
+                    },
+                    text: "Hello everyone",
+                    timestamp: 1700000000098,
+                },
+                {
+                    user: {
+                        username: "Jhon Wood",
+                        photo: "/src/assets/react.svg"
+                    },
+                    text: "Hello everyone",
+                    timestamp: 1700000000123,
+                }
             ]
         }
     ]

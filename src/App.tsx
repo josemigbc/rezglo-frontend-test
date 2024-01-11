@@ -1,6 +1,4 @@
 import { useState } from "react";
-import reactLogo from "./assets/react.svg";
-import "./App.css";
 import Dashboard from "./components/dashboard/Dashboard";
 import LoginPage from "./components/login/LoginPage";
 
